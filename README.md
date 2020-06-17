@@ -1,5 +1,5 @@
 # Cryptographic-Program
-A program to safely encrypt and decrypt files.
+A symmetric encryption program to safely encrypt and decrypt files.
 
 ## Algorithmns:
 - SHA-3 derived function KMACXOF256 & cSHAKE256
