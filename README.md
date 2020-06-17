@@ -2,8 +2,7 @@
 A program to safely encrypt and decrypt files.
 
 ## Algorithmns:
-- SHA-3 derived function KMACXOF256
-- ECDHIES encryption & Schnorr signatures
+- SHA-3 derived function KMACXOF256 & cSHAKE256
 
 ### Hash from a selected file:
 1. Press key ‘1’ [ENTER]
